@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "204125757612",
+    "firebase_url": "https://tonty-252606.firebaseio.com",
+    "project_id": "tonty-252606",
+    "storage_bucket": "tonty-252606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204125757612:android:7f5c50ab53cdff99483f09",
+        "android_client_info": {
+          "package_name": "com.tonty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204125757612-ima8vgl0lm92pl0akavb3jp1bgef1f3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonty",
+            "certificate_hash": "f01eab59709214c48c620ebf13b64e48eee90722"
+          }
+        },
+        {
+          "client_id": "204125757612-43lkvisrofa3l6o4iq4l27tv2s1bg5pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonty",
+            "certificate_hash": "b36137f05ef576398d45a06e39671c6c4a733b25"
+          }
+        },
+        {
+          "client_id": "204125757612-0gl1jclho5dcpokfd2ds3npdnc4qam8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYkQ-F-XGKatvtMXuXXxxabS6IZEJZvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204125757612-0gl1jclho5dcpokfd2ds3npdnc4qam8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204125757612-j56rs6md982v9fojjgbmhpdh4sd9ogn7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tonty.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
